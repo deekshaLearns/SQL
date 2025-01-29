@@ -30,14 +30,6 @@ Joins: Combining exercise and diet-related data for deeper insights.
 - Jupyter Notebook (for SQL + Python integration)
 - Power BI / Tableau (for visualization)
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/deekshaLearns/sql-data-analysis.git
-   ```
-2. Navigate to the desired project folder.
-3. Open the SQL script and execute it in your SQL environment.
-4. For notebooks, open them in Jupyter Notebook and run the queries.
 
 ## 📧 Contact
 Feel free to connect with me for collaboration or queries:
