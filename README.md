@@ -14,6 +14,7 @@ This repository contains SQL scripts and Jupyter notebooks featuring:
 ## 📂 Project List
 
 1) DIET, EXERCISE PCOS ANALYSIS
+   
    Basic Data Retrieval: Selecting all data and specific columns.
 
 Filtering Data: Identifying individuals with PCOS and family history.
