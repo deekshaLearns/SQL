@@ -25,6 +25,26 @@ Lifestyle Analysis: Examining exercise frequency distribution.
 
 Joins: Combining exercise and diet-related data for deeper insights.
 
+
+
+2) WEATHER DATA ANALYSIS
+
+
+
+ Key Insights
+
+
+ 
+Temperature Trends: The project provides insights into daily temperature trends, including average temperatures and extreme temperature days.
+
+Weather Patterns: By analyzing weather descriptions and wind directions, the project helps identify common weather patterns and anomalies.
+
+Extreme Weather Events: The project identifies days with extreme weather conditions, which can be useful for disaster preparedness and planning.
+
+Data Aggregation and Ranking: The use of CTEs and window functions demonstrates advanced SQL techniques for aggregating and ranking data.
+
+
+
 ## 🛠️ Tools Used
 -  MySQL 
 - Jupyter Notebook (for SQL + Python integration)
